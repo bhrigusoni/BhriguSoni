@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Image to text**
 
-- 🌱 I’m currently learning **Computer Vision, DSA**
+- 🌱 I’m currently learning **Computer Vision, NLP**
 
-- 🤝 I’m looking for help with **Loan Prediction Web-app**
+- 🤝 I’m looking for help with **DSA**
 
 - 💬 Ask me about **Machine Learning**
 
